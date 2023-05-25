@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\ExpenseTracker\ExpenseTracker\bin\Debug\ExpenseTracker.exe.config
+C:\Users\Admin\source\repos\ExpenseTracker\ExpenseTracker\bin\Debug\ExpenseTracker.exe
+C:\Users\Admin\source\repos\ExpenseTracker\ExpenseTracker\bin\Debug\ExpenseTracker.pdb
+C:\Users\Admin\source\repos\ExpenseTracker\ExpenseTracker\obj\Debug\ExpenseTracker.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\ExpenseTracker\ExpenseTracker\obj\Debug\ExpenseTracker.login.resources
+C:\Users\Admin\source\repos\ExpenseTracker\ExpenseTracker\obj\Debug\ExpenseTracker.MainMenu.resources
+C:\Users\Admin\source\repos\ExpenseTracker\ExpenseTracker\obj\Debug\ExpenseTracker.Properties.Resources.resources
+C:\Users\Admin\source\repos\ExpenseTracker\ExpenseTracker\obj\Debug\ExpenseTracker.Splash.resources
+C:\Users\Admin\source\repos\ExpenseTracker\ExpenseTracker\obj\Debug\ExpenseTracker.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\ExpenseTracker\ExpenseTracker\obj\Debug\ExpenseTracker.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\ExpenseTracker\ExpenseTracker\obj\Debug\ExpenseTracker.exe
+C:\Users\Admin\source\repos\ExpenseTracker\ExpenseTracker\obj\Debug\ExpenseTracker.pdb
+C:\Users\Admin\source\repos\ExpenseTracker\ExpenseTracker\obj\Debug\ExpenseTracker.Expenses.resources
+C:\Users\Admin\source\repos\ExpenseTracker\ExpenseTracker\obj\Debug\ExpenseTracker.registration.resources
